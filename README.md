@@ -29,7 +29,7 @@ Display D-man aimed to correct users who accidentally enter `dl` instead of `ls`
 
 1. Install [git](https://git-scm.com)
 2. Launch a terminal and go to some folder
-3. Execute this commands
+3. Execute this commands  
   ```bash
   git clone https://github.com/lempiji/dl.git
   cd dl

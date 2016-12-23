@@ -29,7 +29,7 @@
 
 1. [git](https://git-scm.com)をインストールします
 2. 任意のターミナルやコマンドラインを起動します
-3. 適当なディレクトリに移動して、以下のコマンドを実行します
+3. 適当なディレクトリに移動して、以下のコマンドを実行します  
   ```bash
   git clone https://github.com/lempiji/dl.git
   cd dl
