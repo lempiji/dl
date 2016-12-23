@@ -35,11 +35,7 @@ Display D-man aimed to correct users who accidentally enter `dl` instead of `ls`
 
   ```bash
   git clone https://github.com/lempiji/dl.git
-  ```  
-  ```bash
   cd dl
-  ```  
-  ```bash
   dub build
   ```
 
