@@ -1,0 +1,22 @@
+{
+	"name": "dl",
+	"authors": ["lempiji"],
+	"description": "Display D-man aimed to correct users who accidentally enter dl instead of ls.",
+	"license": "ISC",
+    "targetType": "executable",
+
+	"configurations": [
+		{
+			"name": "executable",
+			"targetType": "executable",
+			"mainSourceFile": "src/app.d"
+		},
+		{
+			"name": "library",
+			"targetType": "library",
+			"excludedSourceFiles": [
+				"src/app.d"
+			]
+		}
+	]
+}
