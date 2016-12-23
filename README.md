@@ -28,14 +28,23 @@ Display D-man aimed to correct users who accidentally enter `dl` instead of `ls`
 ### Correct typings firmly
 
 1. Install [git](https://git-scm.com)
+
 2. Launch a terminal and go to some folder
-3. Execute this commands  
+
+3. Execute this commands
+
   ```bash
   git clone https://github.com/lempiji/dl.git
+  ```  
+  ```bash
   cd dl
+  ```  
+  ```bash
   dub build
   ```
+
 4. Add the PATH to current directory
+
 5. Enter "`dl`" by mistake
 
 ### Use on Windows
